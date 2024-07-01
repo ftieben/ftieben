@@ -11,4 +11,4 @@
 ## :newspaper:	 Articles 
 [Terraform per Low Code füttern ](https://www.heise.de/select/ix/2022/10/2215310233256391304)
 
-[Check out my Medium Articles](https://ftieben.medium.com)
+[Check out my Medium Articles](https://medium.com/@ftieben)
